@@ -1,7 +1,5 @@
 name: Documentation
-permissions:
-  contents: write
-  actions: write
+permissions: {}
 
 on:
   workflow_dispatch:
